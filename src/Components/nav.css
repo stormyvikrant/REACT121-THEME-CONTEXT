@@ -1,0 +1,14 @@
+.nav{
+    border: 1px solid rgb(202, 202, 202);
+    height: 60px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 50px;
+    background-color:skyblue;
+ }
+ 
+ button{
+    height: 30px;
+    width: 100px;
+ }
